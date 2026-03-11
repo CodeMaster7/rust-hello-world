@@ -23,9 +23,3 @@ The programming language used is **Rust** (2024 edition). Rust is a statically t
 * [Rust Standard Library Docs](https://doc.rust-lang.org/std/)
 * [rustup - The Rust Toolchain Installer](https://rustup.rs/)
 * [Visual Studio Build Tools for C++](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-
-# Future Work
-
-- Add user input handling with `std::io`
-- Explore Rust's ownership and borrowing system
-- Build a small CLI tool (e.g., a to-do list or file organizer)
